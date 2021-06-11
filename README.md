@@ -1,12 +1,12 @@
 <img src="fulllogo.svg" alt="Jarosław Kaszczak" id="logo" style="min-width: 200px; max-width: 85%; margin: 40px">
 
 
-# $ whoami
+# About
 
 I've been playing games for 16 years. I am interested in the gaming industry and new technologies. I started coding in unity, I'm excited when the software starts working. I am punctual and keep my deadlines. 
 
 
-# $ stack
+# Stack
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -57,14 +57,14 @@ I've been playing games for 16 years. I am interested in the gaming industry and
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-# $ stats
+# Statistics
 
 <p align="center">
     <img alt="GitHub profile' stats" src="https://metrics.lecoq.io/JaroslawKAA?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FWarsaw" />
 </p>
 
 
-# $ challenges
+# Challenges
 
 <p align="center">
     <a href="https://www.codewars.com/users/JaroslawKa" target="_blank">
@@ -73,7 +73,7 @@ I've been playing games for 16 years. I am interested in the gaming industry and
 </p>
 
 
-# $ reachme
+# Reach me
 
 <p align="center">
     If you are willing to talk, about anything, feel free to contact me.
