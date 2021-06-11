@@ -1,4 +1,4 @@
-<!-- ![application preview](readme_res/background.jpg) -->
+<img src="/static/graphic/logo.svg" alt="Jarosław Kaszczak" id="logo" style="filter: invert(); min-width: 200px; max-width: 100%;">
 
 
 # $ whoami
