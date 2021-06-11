@@ -1,4 +1,4 @@
-<img src="fulllogo.svg" alt="Jarosław Kaszczak" id="logo" style="min-width: 200px; max-width: 100%;">
+<img src="fulllogo.svg" alt="Jarosław Kaszczak" id="logo" style="min-width: 200px; max-width: 85%;">
 
 
 # $ whoami
