@@ -32,7 +32,6 @@ I've been playing games for 16 years. I am interested in the gaming industry and
     <img alt="Psycopg" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=psycopg&logo=psycopg&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -82,10 +81,6 @@ I've been playing games for 16 years. I am interested in the gaming industry and
 <p align="center">
     <a href="mailto:kaszczak.jaroslaw@outlook.com?subject=Hello%20Jarosław,%20from%20GitHub!" target="_blank">
     <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-    </a>
-    <a href="mailto:kaszczak.jaroslaw@gmail.com?subject=Hello%20Jarosław,%20from%20GitHub!" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/jaros%C5%82aw-kaszczak-098781129/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
