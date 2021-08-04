@@ -89,4 +89,7 @@ I've been playing games for 16 years. I am interested in the gaming industry and
     <a href="https://discordapp.com/users/751203689607200829" target"_blank">
         <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
+    <a href="https://jaroslawkaa.pythonanywhere.com/">
+        <button type="button">My website</button>
+    </a>
 </p>
