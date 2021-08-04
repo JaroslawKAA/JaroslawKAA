@@ -1,5 +1,6 @@
-<img src="fulllogo.svg" alt="Jarosław Kaszczak" id="logo" style="max-width: 85%; margin: 40px">
-
+<a href="https://jaroslawkaa.pythonanywhere.com/">
+    <img src="fulllogo.svg" alt="Jarosław Kaszczak" id="logo" style="max-width: 85%; margin: 40px">
+</a>
 
 # About
 
@@ -32,14 +33,12 @@ I've been playing games for 16 years. I am interested in the gaming industry and
     <img alt="Psycopg" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=psycopg&logo=psycopg&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-    <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <h3 align="center">Version controls</h3>
