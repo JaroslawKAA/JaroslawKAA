@@ -6,7 +6,7 @@
 
 I've been playing games for 16 years. I am interested in the gaming industry and new technologies. I started coding in unity, I'm excited when the software starts working. I am punctual and keep my deadlines. 
 
-<button>My website</button>
+<button type="button">My website</button>
 
 # Stack
 
