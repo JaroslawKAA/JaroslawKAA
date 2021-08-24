@@ -20,7 +20,7 @@ I've been playing games for 16 years. I am interested in the gaming industry and
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<!--     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> -->
 </p>
 
 <h3 align="center">Game Development</h3>
@@ -88,8 +88,10 @@ I've been playing games for 16 years. I am interested in the gaming industry and
     </a>
     <a href="https://discordapp.com/users/751203689607200829" target"_blank">
         <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://jaroslawkaa.pythonanywhere.com/">
+    </a>   
+</p>
+   <p align="center"> 
+     <a href="https://jaroslawkaa.pythonanywhere.com/">
         <button type="button" style="border:1px">My website</button>
     </a>
-</p>
+   </p>
