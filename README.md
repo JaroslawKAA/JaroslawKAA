@@ -90,9 +90,6 @@ I've been playing games for 16 years. I am interested in the gaming industry and
 <p align="center">
     <a href="mailto:kaszczak.jaroslaw@outlook.com?subject=Hello%20Jarosław,%20from%20GitHub!" target="_blank">
     <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-    <a href="https://www.linkedin.com/in/jaros%C5%82aw-kaszczak-098781129/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
     <a href="https://discordapp.com/users/751203689607200829" target"_blank">
         <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>   
