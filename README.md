@@ -6,10 +6,6 @@
 
 I've been playing games for 16 years. I am interested in the gaming industry and new technologies. I started coding in unity, I'm excited when the software starts working. I am punctual and keep my deadlines. 
 
-<a href="https://jaroslawkaa.pythonanywhere.com/">
-    <button type="button">My website</button>
-</a>
-
 # Stack
 
 <h3 align="center">Programming Languages</h3>
@@ -23,39 +19,21 @@ I've been playing games for 16 years. I am interested in the gaming industry and
 <!--     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> -->
 </p>
 
-> ''Odin Inspector''
+
 <h3 align="center">Game Development</h3>
 <p align="center">
     <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-    
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
-        <p align="center" style="color:white">DOTween</p>
-    </div>
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
-        <p align="center" style="color:white">Zenject</p>
-    </div>
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
-        <p align="center" style="color:white">Photon Unity Network</p>
-    </div>
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
-        <p align="center" style="color:white">Scriptable Object Architecture</p>
-    </div>
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
-        <p align="center" style="color:white">Google AdMob</p>
-    </div>
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
-        <p align="center" style="color:white">Steam VR</p>
-    </div>
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
-        <p align="center" style="color:white">Shader Graph</p>
-    </div>
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
-        <p align="center" style="color:white">Cinemachine</p>
-    </div>
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
-        <p align="center" style="color:white">Animator</p>
-    </div>
 </p>
+
+![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::DOTween::)
+![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Odin+Inspector::)
+![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Photon+Unity+Network::)
+![#243B55](https://via.placeholder.com/220x30/000000/ffffff?text=::Scriptable+Object+Architecture::)
+![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::Google+AdMob::)
+![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Steam+VR::)
+![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Shader+Graph::)
+![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Cinemachine::)
+![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::Animator::)
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
