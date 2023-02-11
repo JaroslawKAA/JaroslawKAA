@@ -32,6 +32,7 @@ I've been playing games for 16 years. I am interested in the gaming industry and
 ![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::Google+AdMob::)
 ![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Steam+VR::)
 ![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Shader+Graph::)
+![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::Zenjest::)
 ![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Cinemachine::)
 ![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::Animator::)
 
