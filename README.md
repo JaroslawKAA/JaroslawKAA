@@ -23,12 +23,13 @@ I've been playing games for 16 years. I am interested in the gaming industry and
 <!--     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> -->
 </p>
 
+
 <h3 align="center">Game Development</h3>
 <p align="center">
     <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-    <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
+    ::: style="float: left;display: inline;height: 50px;width: 200px;background-color: black"
         <p align="center" style="color:white">Odin Inspector</p>
-    </div>
+    :::
     <div style="float: left;display: inline;height: 50px;width: 200px;background-color: black">
         <p align="center" style="color:white">DOTween</p>
     </div>
