@@ -26,8 +26,36 @@ I've been playing games for 16 years. I am interested in the gaming industry and
 <h3 align="center">Game Development</h3>
 <p align="center">
     <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<div style="height: 50px;width: 200px;background-color: black">
-    <p align="center" style="color:white">DOTween</p></div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">Odin Inspector</p>
+    </div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">DOTween</p>
+    </div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">Zenject</p>
+    </div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">Photon Unity Network</p>
+    </div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">Scriptable Object Architecture</p>
+    </div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">Google AdMob</p>
+    </div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">Steam VR</p>
+    </div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">Shader Graph</p>
+    </div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">Cinemachine</p>
+    </div>
+    <div style="height: 50px;width: 200px;background-color: black">
+        <p align="center" style="color:white">Animator</p>
+    </div>
 </p>
 
 <h3 align="center">Frameworks</h3>
