@@ -23,6 +23,7 @@ I've been playing games for 16 years. I am interested in the gaming industry and
 <h3 align="center">Game Development</h3>
 <p align="center">
     <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
 ![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::DOTween::)
