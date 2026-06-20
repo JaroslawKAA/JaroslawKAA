@@ -26,17 +26,6 @@ I've been playing games for 16 years. I am interested in the gaming industry and
     <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white"/>
 </p>
 
-![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::DOTween::)
-![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Odin+Inspector::)
-![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Photon+Unity+Network::)
-![#243B55](https://via.placeholder.com/220x30/000000/ffffff?text=::Scriptable+Object+Architecture::)
-![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::Google+AdMob::)
-![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Steam+VR::)
-![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Shader+Graph::)
-![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::Zenjest::)
-![#243B55](https://via.placeholder.com/150x30/000000/ffffff?text=::Cinemachine::)
-![#243B55](https://via.placeholder.com/120x30/000000/ffffff?text=::Animator::)
-
 <h3 align="center">Frameworks</h3>
 <p align="center">
     <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
